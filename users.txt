@@ -1,0 +1,14 @@
+
+bernard
+benoit
+bruno
+beatrice
+bertrand
+bachibozouk
+basileburno
+burno
+--name=bernard
+bernard
+--name=boubou
+boubou
+bernard
